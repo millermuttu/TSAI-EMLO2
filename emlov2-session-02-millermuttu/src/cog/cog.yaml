@@ -4,4 +4,4 @@ build:
     - torch==1.12.1
     - torchvision==0.13.1
     - timm==0.6.7
-predict: "predict.py:Predictor"
+predict: "infer.py:Predictor"
