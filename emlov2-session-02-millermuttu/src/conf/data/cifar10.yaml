@@ -1,0 +1,13 @@
+# @package _global_
+data:
+  _target_: train.CIFAR10DataModule
+  data_dir: data
+  train_data_dir: data/train
+  test_data_dir: data/test
+  train_dataloader_conf:
+    batch_size: 512
+    num_workers: 4
+  test_dataloader_conf:
+    batch_size: 512
+    num_workers: 4
+

@@ -1,0 +1,4 @@
+pytorch-lightning~=1.1.7
+hydra-core~=1.0.6
+https://download.pytorch.org/whl/cpu/torchvision-0.13.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+timm

@@ -1,0 +1,9 @@
+train:
+  learning_rate: 0.05
+  run_eval: true
+  max_epochs: 2
+
+pl_trainer: {}
+
+defaults:
+  - data: cifar10
