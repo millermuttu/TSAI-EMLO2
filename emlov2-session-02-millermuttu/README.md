@@ -55,4 +55,4 @@ curl $IMAGE_URL > input.jpg
 `cog predict -i image=@input.jpg`
 
 **cog output**
-![cogoutput](\img\cog_output.png)
+![cogoutput](img/cog_output.png)
