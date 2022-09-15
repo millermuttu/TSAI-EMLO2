@@ -6,8 +6,8 @@ data:
   test_data_dir: data/test
   train_dataloader_conf:
     batch_size: 512
-    num_workers: 4
+    num_workers: 1
   test_dataloader_conf:
     batch_size: 512
-    num_workers: 4
+    num_workers: 1
 
