@@ -1,3 +1,6 @@
 [submodule "emlov2-session-01-millermuttu"]
 	path = emlov2-session-01-millermuttu
 	url = https://github.com/The-School-of-AI/emlov2-session-01-millermuttu.git
+[submodule "pytorchlightning-hydra-template"]
+	path = pytorchlightning-hydra-template
+	url = https://github.com/millermuttu/pytorchlightning-hydra-template.git
